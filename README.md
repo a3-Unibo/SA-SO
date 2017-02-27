@@ -1,4 +1,4 @@
-![trabeculae](https://raw.githubusercontent.com/a3-Unibo/SA-SO/master/Trabeculae.png)
+![trabeculae](https://raw.githubusercontent.com/a3-Unibo/SA-SO/master/Trabeculae_small.png)
 
 # SA-SO
 
